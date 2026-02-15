@@ -1,1 +1,1 @@
-First time managing files in C#, nothing usefull 
+First time managing files in C#, nothing useful
